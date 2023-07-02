@@ -1,0 +1,4 @@
+oth72_country_rank
+oth72_industry_rank
+oth72_region_rank
+oth72_sector_rank

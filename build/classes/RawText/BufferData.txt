@@ -1,0 +1,218 @@
+rel_ret_part
+matrix
+rel_ret_part
+matrix
+rel_ret_cust
+matrix
+rel_ret_cust
+matrix
+rel_ret_comp
+matrix
+rel_ret_comp
+matrix
+rel_ret_all
+matrix
+rel_ret_all
+matrix
+rel_num_part
+matrix
+rel_num_part
+matrix
+rel_num_cust
+matrix
+rel_num_cust
+matrix
+rel_num_comp
+matrix
+rel_num_comp
+matrix
+rel_num_all
+matrix
+rel_num_all
+matrix
+pv13_ustomergraphrank_page_rank
+matrix
+pv13_ustomergraphrank_hub_rank
+matrix
+pv13_ustomergraphrank_auth_rank
+matrix
+pv13_ompetitorgraphrank_hub_rank
+matrix
+pv13_com_rk_au
+matrix
+pv13_com_page_rank
+matrix
+pv13_r2_min5_3000_sector
+grouping fields
+group
+pv13_r2_min5_3000_sector
+grouping fields
+group
+pv13_r2_min5_1000_sector
+grouping fields
+group
+pv13_r2_min5_1000_sector
+grouping fields
+group
+pv13_r2_min2_3000_sector
+grouping fields
+group
+pv13_r2_min2_3000_sector
+grouping fields
+group
+pv13_r2_min2_1000_sector
+grouping fields
+group
+pv13_r2_min2_1000_sector
+grouping fields
+group
+pv13_r2_min20_3000_sector
+grouping fields
+group
+pv13_r2_min20_3000_sector
+grouping fields
+group
+pv13_r2_min20_1000_sector
+grouping fields
+group
+pv13_r2_min20_1000_sector
+grouping fields
+group
+pv13_r2_min10_3000_sector
+grouping fields
+group
+pv13_r2_min10_3000_sector
+grouping fields
+group
+pv13_r2_min10_1000_sector
+grouping fields
+group
+pv13_r2_min10_1000_sector
+grouping fields
+group
+pv13_r2_liquid_min5_sector
+grouping fields
+group
+pv13_r2_liquid_min5_sector
+grouping fields
+group
+pv13_r2_liquid_min2_sector
+grouping fields
+group
+pv13_r2_liquid_min2_sector
+grouping fields
+group
+pv13_r2_liquid_min10_sector
+grouping fields
+group
+pv13_r2_liquid_min10_sector
+grouping fields
+group
+pv13_h_min5_500_sector
+grouping fields for top500
+group
+pv13_h_min5_500_sector
+grouping fields for top500
+group
+pv13_h_min5_3000_sector
+grouping fields
+group
+pv13_h_min5_3000_sector
+grouping fields
+group
+pv13_h_min52_3000_sector
+grouping fields
+group
+pv13_h_min52_3000_sector
+grouping fields
+group
+pv13_h_min52_1k_sector
+grouping fields for top1000
+group
+pv13_h_min52_1k_sector
+grouping fields for top1000
+group
+pv13_h_min51_f3_sector
+grouping fields
+group
+pv13_h_min51_f3_sector
+grouping fields
+group
+pv13_h_min30_3000_mapped_sector
+grouping fields
+group
+pv13_h_min30_3000_mapped_sector
+grouping fields
+group
+pv13_h_min2_focused_sector
+grouping fields for top500
+group
+pv13_h_min2_focused_sector
+grouping fields for top500
+group
+pv13_h_min2_focused_pureplay_3000_sector
+grouping fields
+group
+pv13_h_min2_focused_pureplay_3000_sector
+grouping fields
+group
+pv13_h_min2_3000_sector
+grouping fields
+group
+pv13_h_min2_3000_sector
+grouping fields
+group
+pv13_h_min24_500_sector
+grouping fields for top500
+group
+pv13_h_min24_500_sector
+grouping fields for top500
+group
+pv13_h_min22_1000_sector
+grouping fields for top1000
+group
+pv13_h_min22_1000_sector
+grouping fields for top1000
+group
+pv13_h_min20_top3000_sector
+grouping fields
+group
+pv13_h_min20_top3000_sector
+grouping fields
+group
+pv13_h_min10_top3000_sector
+grouping fields
+group
+pv13_h_min10_top3000_sector
+grouping fields
+group
+pv13_h_min10_all_sector
+grouping fields
+group
+pv13_h_min10_all_sector
+grouping fields
+group
+pv13_h_f3_sector
+grouping fields
+group
+pv13_h_f3_sector
+grouping fields
+group
+pv13_h_f1_sector
+grouping fields
+group
+pv13_h_f1_sector
+grouping fields
+group
+pv13_h2_sector
+grouping fields
+group
+pv13_h2_sector
+grouping fields
+group
+pv13_h2_min2_1k_sector
+grouping fields for top1000
+group
+pv13_h2_min2_1k_sector
+grouping fields for top1000
+group

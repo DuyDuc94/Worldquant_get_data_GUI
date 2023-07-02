@@ -1,0 +1,32 @@
+pv3_qualifieddividendincome
+pv3_indicatedannualdividend
+pv3_dividendtype
+pv3_dividendperiodunits
+pv3_dividendperiodend
+pv3_dividendfequency
+pv3_dividendfeature
+pv3_dividendamount
+pv3_dividend_periodlength
+pv28_price_1y
+pv28_price_3m
+pv28_price_6m
+pv28_volatility_1y
+pv28_volatility_3m
+pv28_volatility_6m
+pv7_superrelation_peer_all_relation
+pv7_superrelation_peer_all_score
+pv7_superrelation_peer_all_score_float
+relation iis from SEC report,with backfill
+relation scores from SEC report,with backfill
+pv7_superrelation_sec_all_score_float
+relation iis from SEC report,with backfill
+pv7_superrelation_sec_simi_score_float
+relation iis from analyst of Streetevent report,,with backfill
+pv7_superrelation_sta1_score
+relation score from analyst of Streetevent report,with backfill
+relation iis from analyst of Streetevent report
+pv7_superrelation_sta_score
+relation score from analyst of Streetevent report
+relation iis from company name of Streetevent report
+pv7_superrelation_stc_score
+relation score from company name of Streetevent report
