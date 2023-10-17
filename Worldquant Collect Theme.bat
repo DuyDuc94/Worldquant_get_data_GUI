@@ -1,4 +1,4 @@
-@echo on
+@echo off
 title Worldquant Collect Theme
 cd %~dp0src
 javac GUI_Main.java
