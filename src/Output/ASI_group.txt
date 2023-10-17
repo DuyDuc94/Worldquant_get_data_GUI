@@ -1,7 +1,0 @@
-pv13_5_minvol_1m_sector
-pv13_5_f3_g2_minvol_1m_sector
-pv13_2_minvol_1m_sector
-pv13_2_f4_g3_minvol_1m_sector
-pv13_20_minvol_1m_sector
-pv13_10_minvol_1m_sector
-pv13_10_f3_g2_minvol_1m_sector
