@@ -3,4 +3,4 @@ a Java tool used to analyze and split data into small .txt files
 
 Tool: Netbeans 8.2
 
-Build project before run .bar script
+Build project before run .bat script
