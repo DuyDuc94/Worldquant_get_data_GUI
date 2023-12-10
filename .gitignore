@@ -2,3 +2,4 @@ src/Output/
 
 # Compiled class file
 *.class
+*.txt
