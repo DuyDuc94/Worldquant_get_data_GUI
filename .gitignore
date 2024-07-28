@@ -1,4 +1,5 @@
 src/Output/
+src/RawText/
 
 # Compiled class file
 *.class
